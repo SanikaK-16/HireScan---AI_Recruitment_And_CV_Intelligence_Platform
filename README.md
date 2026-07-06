@@ -1,4 +1,4 @@
-# HireScan — AI-Powered Talent Verification & Career Roadmap Suite
+# HireScan – AI Recruitment & CV Intelligence Platform
 
 HireScan is a professional-grade, dual-portal full-stack application designed to bridge the trust gap between candidates and recruiters. By leveraging server-side Gemini AI models and simulated social verification networks (LinkedIn profile checks, public GitHub repository code audits), HireScan evaluates the authenticity of CVs, highlights technical skill gaps, generates automated learning roadmaps for students/candidates, and provides recruiters with a unified shortlist dashboard.
 
