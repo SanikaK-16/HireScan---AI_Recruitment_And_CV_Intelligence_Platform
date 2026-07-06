@@ -1,0 +1,6 @@
+{
+  "name": "HireScan",
+  "description": "An AI-powered full-stack dual-portal application that validates CV authenticity, detects skill gaps, recommends career roadmaps, and helps recruiters auto-shortlist candidates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
